@@ -1,0 +1,36 @@
+/*colors and fronts*/
+body {
+	background : rgb(245, 245, 247);
+	color: rgb(50,50,50);
+	font-family: 'lora', serif;
+	font-size: 16px;
+ 
+}
+
+h1{
+	color: rgb(rgb29, 29, 31);
+  font-family: "Roboto", sans-serif;
+	font-size: 32px;
+}
+
+h2{
+	color: rgb(rgb29, 29, 31);
+  font-family: "Roboto", sans-serif;
+	font-size: 24px;
+	font-weight: lighter ;
+
+}
+
+a {
+	text-decoration-line:  none;
+	color: rgb(49, 60, 133);
+}
+
+a:hover {
+	text-decoration-style: none;
+	color: rgb(212, 99, 174);
+}
+
+pro {
+	color: blueviolet;
+}
